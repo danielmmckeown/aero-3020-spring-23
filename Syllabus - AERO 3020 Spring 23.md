@@ -41,7 +41,10 @@ You will [schedule](https://fantastical.app/danielmmckeown-X0xS/term-counseling)
 
 The suspense for term interviews is **13 Oct 2022**.
 
-### 6. Academic Integrity
+### 6. Cadet Development Feedback (AFROTC Cadets only)
+
+
+### 7. Academic Integrity
 When submitting work for academic credit, it is assumed the work is the students' own. Plagiarism is the act of using another person's ideas, expressions, or thoughts without acknowledging the source. If students use quotations, text, or ideas from a source other than themselves, documentation is required. For written work, documentation is given using footnotes, references, or bibliographies. If help was received from another person in the accomplishment of an assignment, that collaboration must be documented. All students, including cross-town students, will comply with the University of Massachusetts--Lowell Academic Integrity policy:
 >"The integrity of the academic enterprise of any institution of higher education requires honesty in all aspects of its endeavor. Maintaining academic integrity is therefore the responsibility of all faculty, staff, and students at the University of Massachusetts - Lowell. Academic dishonesty is prohibited in all programs of the University. Sanctions may be imposed on any student who has committed an act of academic dishonesty."
 
@@ -50,10 +53,10 @@ The UML Academic Integrity policy may be further explored at the following link:
 All work submitted by a student in this course for academic credit will be the student's own work. Additionally, cadets will abide by the Cadet Honor Code:
 >"We will not lie, steal, or cheat, nor tolerate among us anyone who does."
 
-### 7. Class Leader
+### 8. Class Leader
 A class leader will be designated each week to facilitate accountability, customs and courtesies, and assist the instructor as needed. Unless modified by the instructor, class leaders will rotate alphabetically (A-Z) through the AFROTC cadets enrolled in the class.
 
-### 8. Inclement Weather/Safety
+### 9. Inclement Weather/Safety
 Safety is paramount. No student should jeopardize their safety to make it to class. For commuters, this includes speeding to avoid being late. Be aware of road conditions and inclement/winter weather the evening before class. If the roads are impassable or unsafe contact me via phone or email if you do not think you will make class or will be late. Plan ahead; bad weather will slow travel, so leave early for class if safe to do so. If you have transportation problems outside of weather delays, call me to inform me of your situation. If the instructor or university officials cancel class for safety or weather considerations, the instructor will attempt to contact each of you by phone or email as soon as possible.
 
 ## CURRICULUM
