@@ -1,4 +1,4 @@
-![[Det_345_Emblem.jpg]]
+![Det_345_Emblem](https://user-images.githubusercontent.com/58311569/206524898-559b408e-9669-4e09-a29b-5edb8edf8307.jpg)
 ## COURSE TITLE
 Aerospace Studies (AERO) 3020, *Leading People and Effective Communication, Part II,* (3 credit hours)
 Tuesdays, 1530 - 1830 in Wannalancit Room 150
