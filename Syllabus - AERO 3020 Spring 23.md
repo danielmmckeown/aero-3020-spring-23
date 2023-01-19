@@ -1,3 +1,5 @@
+# Syllabus - AERO 3020 Spring 23
+
 - [Syllabus - AERO 3020 Spring 23](#syllabus---aero-3020-spring-23)
 	- [COURSE TITLE](#course-title)
 	- [INSTRUCTOR CONTACT INFORMATION](#instructor-contact-information)
@@ -30,7 +32,6 @@
 		- [9. Make-up Policy](#9-make-up-policy)
 	- [COURSE SEQUENCE](#course-sequence)
 
-# Syllabus - AERO 3020 Spring 23
 
 ## COURSE TITLE
 Aerospace Studies (AERO) 3020, *Leading People and Effective Communication, Part II,* (3 credit hours)
