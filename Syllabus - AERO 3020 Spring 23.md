@@ -33,16 +33,18 @@
 	- [COURSE SEQUENCE](#course-sequence)
 
 
+# Syllabus - AERO 3020 Spring 23
+
 ## COURSE TITLE
 Aerospace Studies (AERO) 3020, *Leading People and Effective Communication, Part II,* (3 credit hours)
 
 Tuesdays, 1530 - 1830 in Wannalancit Room 150
 
 ## INSTRUCTOR CONTACT INFORMATION
-Major Daniel McKeown, USAF  
-Office Phone: (978) 934-4948  
-Office Hours: [https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown](https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown)  
-E-mail: [daniel_mckeown@uml.edu](mailto:daniel_mckeown@uml.edu)  
+Major Daniel McKeown, USAF
+Office Phone: (978) 934-4948
+Office Hours: [https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown](https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown)
+E-mail: [daniel_mckeown@uml.edu](mailto:daniel_mckeown@uml.edu)
 
 ## COURSE DESCRIPTION
 AERO 3020, *Leading People and Effective Communication, Part II*, utilizes student’s field training experience to take a more in-depth look at leadership. Special emphasis is placed on enhancing communication skills, and why that is important as a leader. Students have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors.
@@ -124,7 +126,16 @@ Reading assignments are in the Student Reader provided electronically via Blackb
 Active discussion between students is essential to maximize the learning opportunities presented in this course. Students should come prepared to express their views about assigned readings and the concepts presented in class. Cadets' conduct, bearing, preparedness, and attendance are part of their class participation evaluation.
 
 ### 4. Assignments
-#### Writing Assignment #1: Peer Feedback Reflection
+#### Writing Assignment #1: Theory and Innovation Paper
+This assignment will ask you to describe the impact of a theorist, theory, or concept from the Theory and Innovation lesson and your personal assessment of future challenges. You will answer the following questions:
+1. What theory, theorist or innovation stood out to you?  Why?
+2. What additional information did you find regarding this topic?  Historical, contextual, etc.
+3. What is a significant threat or challenge the Air and Space Forces will face in the future?
+4. How well is the Department of the Air Force positioned to meet this challenge/threat? What can or should we do differently?
+
+It will be a two- to three-page Position Paper written IAW DAFH 33-337, *The Tongue and Quill*. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Paper - Theory and Innovation - LASTNAME` to Blackboard no later than 2359 on **9 Mar 2023**. Points will be deducted for failing to  follow the submission guidelines.
+
+#### Writing Assignment #2: Peer Feedback Reflection
 This assignment will ask you to reflect on feedback received from your peers while internalizing lesson concepts presented throughout the AFROTC curriculum. You will answer the following questions:
 1. What were similarities and differences between strengths and weaknesses you identified during self-assessment and peer feedback?
 2. What feedback surprised you? Why?
@@ -133,15 +144,6 @@ This assignment will ask you to reflect on feedback received from your peers whi
 5. What specific steps will you take to improve upon weaknesses?
 
 It will be a two-page Official Memorandum written IAW DAFH 33-337, *The Tongue and Quill*, and written on Air Force letterhead. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Memo - Peer Feedback Reflection - LASTNAME` to Blackboard no later than 2359 on **20 Apr 23**. This assignment will be worth **50 points**. Points will be deducted for failing to  follow the submission guidelines.
-
-#### Writing Assignment #2: Theory and Innovation Paper
-This assignment will ask you to describe the impact of a theorist, theory, or concept from the Theory and Innovation lesson and your personal assessment of future challenges. You will answer the following questions:
-1. What theory, theorist or innovation stood out to you?  Why?
-2. What additional information did you find regarding this topic?  Historical, contextual, etc.
-3. What is a significant threat or challenge the Air and Space Forces will face in the future?
-4. How well is the Department of the Air Force positioned to meet this challenge/threat? What can or should we do differently?
-
-It will be a two- to three-page Position Paper written IAW DAFH 33-337, *The Tongue and Quill*. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Paper - Theory and Innovation - LASTNAME` to Blackboard no later than 2359 on **9 Mar 2023**. Points will be deducted for failing to  follow the submission guidelines.
 
 #### Vision Briefing
 Students will deliver a 3-5 minute prepared briefing on their personal vision statement. Briefings will be conducted on **16 Mar 23**. Utilizing the material covered in Creating a Vision lesson, students will create a vision statement for what kind of officer and leader they want to be in the future. The final presentation is due to the instructor NLT 1200 the day of the briefing. The instructor will provide a grading rubric to assist students with grading requirements.
