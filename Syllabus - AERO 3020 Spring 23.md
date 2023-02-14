@@ -1,6 +1,7 @@
 # Syllabus - AERO 3020 Spring 23
 
 - [Syllabus - AERO 3020 Spring 23](#syllabus---aero-3020-spring-23)
+- [Syllabus - AERO 3020 Spring 23](#syllabus---aero-3020-spring-23-1)
 	- [COURSE TITLE](#course-title)
 	- [INSTRUCTOR CONTACT INFORMATION](#instructor-contact-information)
 	- [COURSE DESCRIPTION](#course-description)
@@ -31,7 +32,6 @@
 		- [8. Grading Scale](#8-grading-scale)
 		- [9. Make-up Policy](#9-make-up-policy)
 	- [COURSE SEQUENCE](#course-sequence)
-
 
 # Syllabus - AERO 3020 Spring 23
 
@@ -133,7 +133,7 @@ This assignment will ask you to describe the impact of a theorist, theory, or co
 3. What is a significant threat or challenge the Air and Space Forces will face in the future?
 4. How well is the Department of the Air Force positioned to meet this challenge/threat? What can or should we do differently?
 
-It will be a two- to three-page Position Paper written IAW DAFH 33-337, *The Tongue and Quill*. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Paper - Theory and Innovation - LASTNAME` to Blackboard no later than 2359 on **9 Mar 2023**. Points will be deducted for failing to  follow the submission guidelines.
+It will be a two- to three-page Background Paper written IAW DAFH 33-337, *The Tongue and Quill*. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Paper - Theory and Innovation - LASTNAME` to Blackboard no later than 2359 on **6 Apr 2023**. Points will be deducted for failing to  follow the submission guidelines.
 
 #### Writing Assignment #2: Peer Feedback Reflection
 This assignment will ask you to reflect on feedback received from your peers while internalizing lesson concepts presented throughout the AFROTC curriculum. You will answer the following questions:
@@ -166,13 +166,13 @@ Assignments will be graded as follows:
 
 | **Assignments**       | **Points** |
 | --------------------- | ---------- |
-| Mid-Term Exam         | 200        |
-| Writing Assignment #1 | 50         |
-| Writing Assignment #2 | 100        |
+| Mid-Term Exam         | 200        | 
+| Writing Assignment #1 | 100        |
+| Writing Assignment #2 | 50         |
 | Vision Briefing       | 100        |
 | Advocacy Briefing     | 100        |
 | Final Exam            | 100        |
-| AFROTC Fm 48          | 25         | 
+| AFROTC Fm 48          | 25         |
 | Class Participation   | 25         |
 | **Total**             | **700**    |
 
@@ -212,41 +212,32 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 |          |             | Wingman Intervention (initial)                  | Student Reader          |
 | 3        | 2 Feb 2023  | Leadership Series: Comprehensive Airman Fitness | Student Reader          |
 |          |             | Leadership Series: Comprehensive Airman Fitness | Student Reader          |
-|          |             | TBD                                             |                         |
 | 4        | 9 Feb 2023  | Self-Awareness                                  | Student Reader          |
 |          |             | Establishing Expectations                       | Student Reader          |
 |          |             | Establishing Expectations                       | Student Reader          |
-| 5        | 16 Feb 2023 | Public Affairs and the Media                    | Student Reader          |
+| 5        | 16 Feb 2023 | Public Affairs and the Media *(Guest Lecture)*  | Student Reader          |
 |          |             | Leadership Series: Communication                | Student Reader          |
 |          |             | Leadership Series: Communication                | Student Reader          |
-| 6        | 23 Feb 2023 | Mid-Term Exam                                   | N/A                     |
-|          |             | Theory and Innovation                           | Student Reader          |
-|          |             | Theory and Innovation                           | Student Reader          |
-| 7        | 2 Mar 2023  | Leadership Series: Inspiring Action             | Student Reader          |
+| 6        | 23 Feb 2023 | **Mid-Term Exam**                               | N/A                     |
 |          |             | Mentoring                                       | Student Reader          |
-|          |             | Creating a Vision                               | Student Reader          |
-| 8        | 9 Mar 2023  | NO CLASS (Spring Break)                         | N/A                     |
-|          |             | **Theory and Innovation Paper Due**             | N/A                     |
+| 7        | 2 Mar 2023  | Creating a Vision                               | Student Reader          |
+|          |             | Advocacy Briefing Requirements                  | Student Reader          |
+| 8        | 9 Mar 2023  | **NO CLASS (Spring Break)**                     | N/A                     |
 | 9        | 16 Mar 2023 | Creating a Vision                               | Student Reader          |
 |          |             | Creating a Vision                               | Student Reader          |
-|          |             | Advocacy Briefing Requirements                  | Student Reader          |
-| 10       | 23 Mar 2023 | Professionalism is a Decision                   | Student Reader          |
-|          |             | Organizational Climate 1                        | Student Reader          |
-|          |             | Organizational Climate 2                        | Student Reader          |
+| 10       | 23 Mar 2023 | Theory and Innovation                           | Student Reader          |
+|          |             | Theory and Innovation                           | Student Reader          |
 | 11       | 30 Mar 2023 | Feedback                                        | Student Reader          |
 |          |             | Feedback                                        | Student Reader          |
-|          |             | TBD                                             |                         |
 | 12       | 6 Apr 2023  | Peer Feedback                                   | Student Reader          |
 |          |             | Peer Feedback                                   | Student Reader          |
-|          |             | TBD                                             |                         |
-| 13       | 13 Apr 2023 | TBD                                             |                         |
-|          |             | TBD                                             |                         |
-|          |             | TBD                                             |                         |
-| 14       | 20 Apr 2023 | TBD                                             |                         |
-|          |             | TBD                                             |                         |
-|          |             | TBD                                             |                         |
-|          |             | **Peer Feedback Reflection Memo Due**           |                         |
+|          |             | **Theory and Innovation Paper Due**             | N/A                     |
+| 13       | 13 Apr 2023 | Organizational Climate 1                        | Student Reader          |
+|          |             | Organizational Climate 2                        | Student Reader          |
+| 14       | 20 Apr 2023 | Professionalism is a Decision                   | Student Reader          |
+|          |             | Leadership Series: Inspiring Action             | Student Reader          |
+|          |             | **Peer Feedback Reflection Memo Due**           | N/A                     |
 | 15       | 27 Apr 2023 | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
-| 16       | 4 May 2023  | Final Exam (Tentative)                          | N/A                     |
+| 16       | 4 May 2023  | **Final Exam (Tentative)**                      | N/A                     |
