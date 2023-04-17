@@ -231,7 +231,6 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 |          |             | Feedback                                        | Student Reader          |
 | 12       | 6 Apr 2023  | Peer Feedback                                   | Student Reader          |
 |          |             | Peer Feedback                                   | Student Reader          |
-|          |             | **Theory and Innovation Paper Due**             | N/A                     |
 | 13       | 13 Apr 2023 | Organizational Climate 1                        | Student Reader          |
 |          |             | Organizational Climate 2                        | Student Reader          |
 | 14       | 20 Apr 2023 | Professionalism is a Decision                   | Student Reader          |
