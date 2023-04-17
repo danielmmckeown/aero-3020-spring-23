@@ -236,7 +236,6 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 |          |             | Organizational Climate 2                        | Student Reader          |
 | 14       | 20 Apr 2023 | Professionalism is a Decision                   | Student Reader          |
 |          |             | Leadership Series: Inspiring Action             | Student Reader          |
-|          |             | **Peer Feedback Reflection Memo Due**           | N/A                     |
 | 15       | 27 Apr 2023 | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
