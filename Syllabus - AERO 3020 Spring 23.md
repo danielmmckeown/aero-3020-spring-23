@@ -1,7 +1,6 @@
 # Syllabus - AERO 3020 Spring 23
 
 - [Syllabus - AERO 3020 Spring 23](#syllabus---aero-3020-spring-23)
-- [Syllabus - AERO 3020 Spring 23](#syllabus---aero-3020-spring-23-1)
 	- [COURSE TITLE](#course-title)
 	- [INSTRUCTOR CONTACT INFORMATION](#instructor-contact-information)
 	- [COURSE DESCRIPTION](#course-description)
@@ -32,8 +31,6 @@
 		- [8. Grading Scale](#8-grading-scale)
 		- [9. Make-up Policy](#9-make-up-policy)
 	- [COURSE SEQUENCE](#course-sequence)
-
-# Syllabus - AERO 3020 Spring 23
 
 ## COURSE TITLE
 Aerospace Studies (AERO) 3020, *Leading People and Effective Communication, Part II,* (3 credit hours)
@@ -128,8 +125,8 @@ Active discussion between students is essential to maximize the learning opportu
 ### 4. Assignments
 #### Writing Assignment #1: Theory and Innovation Paper
 This assignment will ask you to describe the impact of a theorist, theory, or concept from the Theory and Innovation lesson and your personal assessment of future challenges. You will answer the following questions:
-1. What theory, theorist or innovation stood out to you?  Why?
-2. What additional information did you find regarding this topic?  Historical, contextual, etc.
+1. What theory, theorist or innovation stood out to you?  Why?
+2. What additional information did you find regarding this topic?  Historical, contextual, etc.
 3. What is a significant threat or challenge the Air and Space Forces will face in the future?
 4. How well is the Department of the Air Force positioned to meet this challenge/threat? What can or should we do differently?
 
@@ -146,10 +143,10 @@ This assignment will ask you to reflect on feedback received from your peers whi
 It will be a two-page Official Memorandum written IAW DAFH 33-337, *The Tongue and Quill*, and written on Air Force letterhead. All students will upload their memos as a Word document (`.docx`) with the following naming convention: `Memo - Peer Feedback Reflection - LASTNAME` to Blackboard no later than 2359 on **2 May 23**. This assignment will be worth **50 points**. Points will be deducted for failing to  follow the submission guidelines.
 
 #### Vision Briefing
-Students will deliver a 3-5 minute prepared briefing on their personal vision statement. Briefings will be conducted on **16 Mar 23**. Utilizing the material covered in Creating a Vision lesson, students will create a vision statement for what kind of officer and leader they want to be in the future. The final presentation is due to the instructor NLT 1200 the day of the briefing. The instructor will provide a grading rubric to assist students with grading requirements.
+Students will deliver a 3-5 minute prepared briefing on their personal vision statement. Briefings will be conducted on **16 Mar 23**. Utilizing the material covered in Creating a Vision lesson, students will create a vision statement for what kind of officer and leader they want to be in the future. The final presentation is due to the instructor NLT 1200 the day of the briefing. The instructor will provide a grading rubric to assist students with grading requirements.
 
 #### Advocacy Briefing
-Students will deliver a 5 to 9-minute advocacy briefing on a topic assigned to them from the Student Reader. Briefings will be conducted on **27 Apr 23**. More information will be provided during class. The final presentation is due to the instructor NLT 1200 the day of the briefing. The instructor will provide a grading rubric to assist students with grading requirements.
+Students will deliver a 5 to 9-minute advocacy briefing on a topic assigned to them from the Student Reader. Briefings will be conducted on **27 Apr 23**. More information will be provided during class. The final presentation is due to the instructor NLT 1200 the day of the briefing. The instructor will provide a grading rubric to assist students with grading requirements.
 
 ### 5. Exams/quizzes
 There will be two exams, and each is worth 100 points. Content for all exams will come from the lectures, films, and reading assignments. Testable items are normally taken from the Cognitive Samples of Behavior contained in your Student Reader. Questions may consist of matching, multiple choice, short answer/fill in the blank, and short essay. See the attached course sequence for dates. Exams will be administered via Blackboard and are considered **closed book**.
@@ -202,6 +199,8 @@ If you have a prior-approved absence for a class during which an examination is 
 
 The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and may consist of informal lectures, discussion, and student briefings. Unless otherwise indicated, all preparatory reading assignments are contained in the Student Reader posted on Blackboard and must be accomplished **prior** to class.
 
+# Course Sequence - AERO 3020 - Spring 23
+
 | **Week** | **Date**    | **Lesson**                                      | **Reading Assignments** |
 | -------- | ----------- | ----------------------------------------------- | ----------------------- |
 | 1        | 19 Jan 2023 | AS300 Course Overview                           | Student Reader          |
@@ -215,14 +214,14 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 | 4        | 9 Feb 2023  | Self-Awareness                                  | Student Reader          |
 |          |             | Establishing Expectations                       | Student Reader          |
 |          |             | Establishing Expectations                       | Student Reader          |
-| 5        | 16 Feb 2023 | Public Affairs and the Media *(Guest Lecture)*  | Student Reader          |
+| 5        | 16 Feb 2023 | Leadership Series: Communication                | Student Reader          |
 |          |             | Leadership Series: Communication                | Student Reader          |
-|          |             | Leadership Series: Communication                | Student Reader          |
-| 6        | 23 Feb 2023 | **Mid-Term Exam**                               | N/A                     |
+| 6        | 23 Feb 2023 | Professionalism is a Decision                   | Student Reader          |
 |          |             | Mentoring                                       | Student Reader          |
-| 7        | 2 Mar 2023  | Creating a Vision                               | Student Reader          |
+| 7        | 2 Mar 2023  | Mid-Term Exam                                   |                         |
+|          |             | Creating a Vision                               | Student Reader          |
 |          |             | Advocacy Briefing Requirements                  | Student Reader          |
-| 8        | 9 Mar 2023  | **NO CLASS (Spring Break)**                     | N/A                     |
+| 8        | 9 Mar 2023  | NO CLASS (Spring Break)                         | N/A                     |
 | 9        | 16 Mar 2023 | Creating a Vision                               | Student Reader          |
 |          |             | Creating a Vision                               | Student Reader          |
 | 10       | 23 Mar 2023 | Theory and Innovation                           | Student Reader          |
@@ -231,11 +230,14 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 |          |             | Feedback                                        | Student Reader          |
 | 12       | 6 Apr 2023  | Peer Feedback                                   | Student Reader          |
 |          |             | Peer Feedback                                   | Student Reader          |
+|          |             | **Theory and Innovation Paper Due**             | N/A                     |
 | 13       | 13 Apr 2023 | Organizational Climate 1                        | Student Reader          |
 |          |             | Organizational Climate 2                        | Student Reader          |
-| 14       | 20 Apr 2023 | Professionalism is a Decision                   | Student Reader          |
+| 14       | 20 Apr 2023 | Public Affairs and the Media                    | Student Reader          |
 |          |             | Leadership Series: Inspiring Action             | Student Reader          |
+|          |             | **Peer Feedback Reflection Memo Due**           |                         |
 | 15       | 27 Apr 2023 | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
 |          |             | Advocacy Briefings                              | Student Reader          |
-| 16       | 4 May 2023  | **Final Exam (Tentative)**                      | N/A                     |
+| 16       | 2 May 2023  | **Peer Feedback Reflection Memo Due**           |                         |
+|          | 5 May 2023  | Final Exam Due NLT 2359                         |                         | 
