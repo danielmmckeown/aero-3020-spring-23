@@ -168,7 +168,7 @@ Assignments will be graded as follows:
 | Writing Assignment #2 | 50         |
 | Vision Briefing       | 100        |
 | Advocacy Briefing     | 100        |
-| Final Exam            | 100        |
+| Final Exam            | 200        |
 | AFROTC Fm 48          | 25         |
 | Class Participation   | 25         |
 | **Total**             | **700**    |
