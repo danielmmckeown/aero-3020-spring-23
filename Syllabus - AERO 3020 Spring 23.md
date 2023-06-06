@@ -217,7 +217,7 @@ The AERO 3020 Spring 2023 course sequence is listed below. Class times vary and 
 | 5        | 16 Feb 2023 | Leadership Series: Communication                | Student Reader          |
 |          |             | Leadership Series: Communication                | Student Reader          |
 | 6        | 23 Feb 2023 | Professionalism is a Decision                   | Student Reader          |
-|          |             | Mentoring                                       | Student Reader          |
+|          |             | Mentoring (Part I)                                      | Student Reader          |
 | 7        | 2 Mar 2023  | Mid-Term Exam                                   |                         |
 |          |             | Creating a Vision                               | Student Reader          |
 |          |             | Advocacy Briefing Requirements                  | Student Reader          |
